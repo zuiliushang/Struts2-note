@@ -5,4 +5,6 @@ struts2的学习笔记
 
 <<<<<<<<<<<<<<<<<<<<<
 
+- ### 基础篇
+
 [第一课 - HelloStruts](https://github.com/zuiliushang/Struts2-note/issues/1)
